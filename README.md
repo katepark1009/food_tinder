@@ -5,8 +5,8 @@ Tuur allows users to request for a tour or become a tour guide in their local ar
 
 ### Description
 
--Team lead for mobile-first app, utilized MeisterTask to coordinate sprints and task management by utilizing the Agile Methodology
--Designed with Material-UI for mobile & tablet responsiveness
--Utilized React.js, PHP, MySQL
+- Team lead for mobile-first app, utilized MeisterTask to coordinate sprints and task management by utilizing the Agile Methodology
+- Designed with Material-UI for mobile & tablet responsiveness
+- Utilized React.js, PHP, MySQL
 
 ![Alt text](/tuur.PNG?raw=true "Title")
