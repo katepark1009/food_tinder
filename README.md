@@ -9,5 +9,5 @@ Tuur allows users to request for a tour or become a tour guide in their local ar
 - Designed with Material-UI for mobile & tablet responsiveness
 - Utilized React.js, PHP, MySQL
 
-![Alt text](/tuur1.jpg?raw=true "Title")
-![Alt text](/tuur2.jpg?raw=true "Title")
+![Alt text](/tuur1.jpg?raw=true "Title" | width=100)
+![Alt text](/tuur2.jpg?raw=true "Title" | width=100)
